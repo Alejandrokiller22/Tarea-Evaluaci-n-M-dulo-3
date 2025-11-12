@@ -1,3 +1,4 @@
-﻿MD5 hash de clientes.txt.txt:
+﻿MD5 hash de clientes.txt:
 6e642e1b0946f7591267b58cc49b72eb
 CertUtil: -hashfile comando completado correctamente.
+
